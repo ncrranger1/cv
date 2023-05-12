@@ -1,8 +1,8 @@
 ---
 layout: forward
-targettitle: Taking you to example.com
-target: https://example.com
-targetname: Example.com
-time: 10
-message: This isn't here any more!
+targettitle: Redirecting you to my CV...
+target: https://github.com/zachduffill/cv/raw/master/cv.pdf
+targetname: https://github.com/zachduffill/cv/raw/master/cv.pdf
+time: 3
+message: My github account has moved to zachduffill
 ---
